@@ -5,3 +5,6 @@ This Repo is to build the the Diffusion Models from Scratch
 ## Modules
 ### UNet ✅
 - With Padding
+
+### VAE ✅
+- VanilaVAE
